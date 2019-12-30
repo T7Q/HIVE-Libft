@@ -1,5 +1,7 @@
 # Libft-project - @HiveHelsinki
 
+![alt text](https://user-images.githubusercontent.com/49685048/71585884-c870b980-2b20-11ea-82d6-9f68024e17e2.png)
+
 Libft is an individual project at Hive Helsinki to re-create some standard C library functions including some additional ones that can be used later to build a library of useful functions for the rest of the program.
 
 | Libc functions | Additional Functions | Bonus Functions | Personal Functions |
